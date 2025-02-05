@@ -14,4 +14,4 @@ CSS3: For styling and making the website responsive.
 Formspree: For handling contact form submissions.
 WhatsApp API: For direct bookings via WhatsApp
 
-This project is licensed under the MIT License.
+
